@@ -1,0 +1,8 @@
+# ninja log v5
+1	147	7205897089512159	CMakeFiles/Lab_Exercise_3.dir/main.c.obj	c3eeed0140655b3c
+150	422	7205897092230996	Lab_Exercise_3.exe	fd74da9ba91927a1
+2	119	7205913502180878	CMakeFiles/Lab_Exercise_3.dir/Exercise_2.c.obj	815e0bc2066aaf7c
+4	123	7205918141538485	CMakeFiles/Lab_Exercise_3.dir/Exercise_1.c.obj	4059c84249e56a15
+14	307	7211546786709358	CMakeFiles/Lab_Exercise_3.dir/main.c.obj	c3eeed0140655b3c
+4	309	7211546786709358	CMakeFiles/Lab_Exercise_3.dir/Exercise_1.c.obj	4059c84249e56a15
+4	144	7211547071381127	CMakeFiles/Lab_Exercise_3.dir/main.c.obj	c3eeed0140655b3c

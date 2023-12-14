@@ -1,0 +1,5 @@
+# ninja log v5
+9	180	7211912906150562	CMakeFiles/Labtest.dir/main.c.obj	e088e4d66f537bbf
+1	839	7211549380710771	CMakeFiles/Labtest.dir/main.cpp.obj	bcade5e1e223c377
+4	344	7211913066616192	Labtest.exe	872ba49a11f65c66
+1	320	7223543918483624	build.ninja	9620becdef72f4b0
