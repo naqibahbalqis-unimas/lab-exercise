@@ -13,13 +13,14 @@ char getInput(){
 	char words[250];
 	
 	printf("Enter a string: ");
-	 fgets(words, sizeof(words), stdin);
-	
+    gets(words);
 	reverseText(words);
-
+    return 0;
 
 }
 
 char reverseText(char words[]){
-	    printf ("\nAfter the reverse of a string: %s ", strrev(words)); 
+	    printf ("\nAfter the reverse of a string: %s ", strrev(words));
+    return 0;
+
 }
