@@ -1,0 +1,5 @@
+# ninja log v5
+2	342	7259918812364172	CMakeFiles/Lab_Exercise_10.dir/main.c.obj	25ac81981beb7ba9
+22	760	7260085010360570	CMakeFiles/Lab_Exercise_10.dir/exercise_1.c.obj	ca110b4ed0399263
+1	426	7260099858847714	build.ninja	d6d4009fb773232c
+762	1267	7260085015230926	Lab_Exercise_10.exe	741c0ea85bceac40
